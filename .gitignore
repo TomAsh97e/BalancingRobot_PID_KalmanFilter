@@ -1,0 +1,13 @@
+# Ignoruj foldery kompilacji
+Debug/
+Release/
+build/
+
+# Ignoruj pliki binarne, obiektowe i logi
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+*.list
