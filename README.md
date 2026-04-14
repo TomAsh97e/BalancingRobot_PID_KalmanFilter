@@ -7,14 +7,14 @@ Project made to improve understandig of filters (Kalman filter and complementary
 
 - Working Video
 https://youtube.com/shorts/rS4vTKlr358
-- PID Controller user menu usingOLED and encoder https://youtube.com/shorts/RhKpqrFH3e4
+- PID Controller user menu using OLED and encoder https://youtube.com/shorts/RhKpqrFH3e4
 
 ## Features
 
--Chasis designed in Fusion360 and 3d printed using PLA
--I2C comunication.  OLED screen and MPU6050 on the same bus
--User interface for calibrating PID controller
--Using Kalman Filter or Complementary Filter to make sure data is reliable
+- Chasis designed in Fusion360 and 3d printed using PLA
+- I2C comunication.  OLED screen and MPU6050 on the same bus
+- User interface for calibrating PID controller
+- Using Kalman Filter or Complementary Filter to make sure data is reliable
 
 ## Components
 
